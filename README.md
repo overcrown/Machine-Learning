@@ -36,6 +36,14 @@
 	</li>
 </ul>
 
+<h3>How it does work ?</h3>
+<p>
+	<span style="font-size:18pt;">
+		Firstly, the archive who contains the machine learning algorithm it is the 'machine_learnin.pynb', it will read the excel file 'advertising.csv' who contains all the propagation channels investments and the sales of company (monthly); after that it will clean all this data and fix some issues inside the data; when this process had finish, the machine learning libs will use the part of the excel file to teach our algorithm, then the algorithm will use the AI libs to predict the sales. Now the algorithm will compare the 2 AI methods the i used to predict the sales, that one who is closer to 100 will be use as parameter to analyse e take a decision for the company for example.
+	</span>
+</p>
+
+
 <h3>Observations: </h3><p><span style="font-size: 18pt;">All this Jupyter dependencies came with Jupyter download</span></p>
 
 <h4 align="center">Thanks for visiting. Enjoy it :v:</h4>
