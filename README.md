@@ -6,11 +6,10 @@
 <p>This repository is about the use of machine learning in the daily tasks of our job routine. Just imagine that you and your company are in a complicated situation, the financial is barely breathing, you guys need to increase your sales, get new clients and keep the old clients. Well, this algorithm model can save your life and your company life.</p>
 
 
-<h3>Tools:</h3>
+<h3>Tools:</h3><img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/jupyter-black?style=for-the-badge&logo=jupyter&logoColor=white"/><img src="https://img.shields.io/badge/anaconda-black?style=for-the-badge&logo=anaconda&logoColor=white"/>
 
 <ul type=disc>	
 	<li><span style="font-size: 18pt;"> <b>Python</b> - Below there are some libs</span>
-		<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"/>
 	</li>
 		<ul>
 			<li>pandas</li>
@@ -18,8 +17,7 @@
 			<li>seaborn</li>
 			<li>matplotlib.pyplot</li>
 		</ul>
-	<li><span style="font-size: 18pt;"><b>Jupyter</b> - Below there are some libs</span>
-		<img src="https://img.shields.io/badge/jupyter-black?style=for-the-badge&logo=jupyter&logoColor=white"/>
+	<li><span style="font-size: 18pt;"><b>Jupyter</b> - Below there are some libs</span>		
 	</li>
 		<ul>
 			<li>jupyter core</li>
@@ -35,10 +33,9 @@
 			<li>traitlets</li>
 		</ul>
 	<li><span style="font-size: 18pt;"><b>Anaconda</b></span>
-		<img src="https://img.shields.io/badge/anaconda-black?style=for-the-badge&logo=anaconda&logoColor=white"/>
 	</li>
 </ul>
 
-
+<h3>Observations: </h3><p><span style="font-size: 18pt;">All this Jupyter dependencies came with Jupyter download</span></p>
 
 <h4 align="center">Thanks for visiting. Enjoy it :v:</h4>
