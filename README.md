@@ -15,8 +15,8 @@
 		<ul>
 			<li>pandas</li>
 			<li>sklearn</li>
-			<li></li>
-			<li></li>
+			<li>seaborn</li>
+			<li>matplotlib.pyplot</li>
 		</ul>
 	<li><span style="font-size: 18pt;"><b>Jupyter</b> - Below there are some libs</span>
 		<img src="https://img.shields.io/badge/jupyter-black?style=for-the-badge&logo=jupyter&logoColor=white"/>
