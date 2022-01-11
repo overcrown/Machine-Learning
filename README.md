@@ -3,7 +3,7 @@
 
 <h3>Description:</h3>
 
-<p>This repository is about the use of machine learning in the daily tasks of our job routine. Just imagine that you and your company are in a complicated situation, the financial is barely breathing, your team need to increase your sales, get new clients and keep the old clients. Well, this algorithm model can save your life and your company life.</p>
+<p>This repository is about the use of machine learning in the daily tasks of our job routine. Just imagine that you and your company are in a complicated situation, the financial is barely breathing, your team need to increase your sales, get new clients and keep the old clients. Well, this algorithm model can save your life and your company life. Notice that we've use a lot of graphics, that's why you really need to understand the meaning of it, you need to see the difference between the axles and the columns.</p>
 
 
 <h3>Tools:</h3><img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/jupyter-black?style=for-the-badge&logo=jupyter&logoColor=white"/><img src="https://img.shields.io/badge/anaconda-black?style=for-the-badge&logo=anaconda&logoColor=white"/>
